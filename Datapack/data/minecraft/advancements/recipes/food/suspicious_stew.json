@@ -2,7 +2,7 @@
   "parent": "minecraft:recipes/root",
   "rewards": {
     "recipes": [
-      "minecraft:mushroom_stew"
+      "minecraft:suspicious_stew"
     ]
   },
   "criteria": {
