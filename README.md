@@ -32,7 +32,7 @@
 1. 在游戏中使用命令`/reload`，加载数据包  
 
 1. 在游戏中使用命令`/datapack list`，查看已载入的数据包  
-   - 如返回已启用数据包中包含`[file/IceStew]`则安装成功  
+   - 如返回已启用数据包中包含`[file/IceStew-Datapack]`则安装成功  
    - 使用命令`/datapack enable`或`/datapack disable`可以分别**启用/禁用**数据包  
 
 
